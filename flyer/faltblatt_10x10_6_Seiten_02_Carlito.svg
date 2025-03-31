@@ -5,7 +5,7 @@
    height="283.465pt"
    width="839.055pt"
    id="svg3468"
-   sodipodi:docname="faltblatt_10x10_6_Seiten_02_1_Carlito.svg"
+   sodipodi:docname="faltblatt_10x10_6_Seiten_02_Carlito.svg"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -38,14 +38,14 @@
      inkscape:document-units="pt"
      showgrid="false"
      inkscape:zoom="0.75"
-     inkscape:cx="606"
+     inkscape:cx="606.66667"
      inkscape:cy="253.33333"
      inkscape:window-width="1920"
      inkscape:window-height="1010"
      inkscape:window-x="1673"
      inkscape:window-y="-6"
      inkscape:window-maximized="1"
-     inkscape:current-layer="gras hinten"
+     inkscape:current-layer="Hauptebene"
      inkscape:document-rotation="0" />
   <defs
      id="defs675">
@@ -4863,7 +4863,7 @@
          id="path5853" />
     </g>
     <g
-       transform="translate(288,244.985)"
+       transform="translate(289.5,244.985)"
        id="Kopie von TWie1 (4)-8">
       <use
          xlink:href="#GlLato-Bold80"
